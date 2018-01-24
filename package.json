@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/karthikmsadashivappa/nano_site/issues"
   },
-  "homepage": "https://github.com/karthikmsadashivappa/nano_site#readme"
+  "homepage": "https://github.com/karthikmsadashivappa/nano_site#readme",
+  "dependencies": {
+    "normalize.css": "^7.0.0"
+  }
 }
