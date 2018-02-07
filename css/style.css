@@ -2,7 +2,44 @@
 	box-sizing: border-box;
 }
 
-
 body {
 	background: #dde392;
+	font-family: 'Raleway', sans-serif;
+}
+
+.page {
+	max-width: 1440px;
+	width: 100%;
+	background: transparent;
+
+}
+
+.btn {
+	padding: 10px;
+	border-radius: 20px;
+	background: #fff;
+}
+
+#header {
+	height: 80px;
+}
+
+.container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin: 0 54px;
+	padding: 0 15px;
+	height: 80px;
+}
+
+.links ul li{
+	display: inline;
+}
+
+.links ul li a {
+	text-decoration: none;
+	margin: 10px;
+	color: #9592ad;
+	font-weight: 300;
 }
